@@ -48,7 +48,6 @@
 				6349A4EB751BADACDA1B8404 /* Pods-CalendarPractice-iOS.debug.xcconfig */,
 				EA52E87BC30A9BBB74520A7C /* Pods-CalendarPractice-iOS.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
